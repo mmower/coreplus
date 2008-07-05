@@ -1,6 +1,6 @@
 require 'rubygems'
 
-Gem::Specification.new do |spec|
+SPEC = Gem::Specification.new do |spec|
   spec.name         = 'coreplus'
   spec.version      = '0.1.0'
   spec.author       = 'Matt Mower'
